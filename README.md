@@ -1,4 +1,10 @@
-# Caffe
+# Caffe for TK1 Platform
+
+This repo provides a branch that you can compile & run directly on TK1.
+
+# Original README.md:
+
+## Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
@@ -22,7 +28,7 @@ Framework development discussions and thorough bug reports are collected on [Iss
 
 Happy brewing!
 
-## License and Citation
+### License and Citation
 
 Caffe is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE).
 The BVLC reference models are released for unrestricted use.
